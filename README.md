@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba
+Este es un repositorio de prueba,de como crear un repositorio desde github y clonarlo a nuestro escritorio local,que esta ne nuestra pc.
